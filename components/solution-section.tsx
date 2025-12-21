@@ -43,7 +43,7 @@ export function SolutionSection() {
 
         <div className="max-w-2xl mx-auto">
           <p className="text-muted-foreground text-center mb-6">
-            Entre los beneficios tradicionalmente asociados a la Melena de León se encuentran:
+            Entre los beneficios tradicionalmente asociados a nuestro producto Melena de León se encuentran:
           </p>
           <ul className="space-y-3">
             {[

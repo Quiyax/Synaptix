@@ -66,7 +66,7 @@ export function ProductSection() {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Contacta con nosotros y compra ahora
+                    Compra ahora
                   </a>
                 </Button>
               </CardContent>
