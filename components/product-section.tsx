@@ -62,7 +62,7 @@ export function ProductSection() {
                   size="lg"
                 >
                   <a
-                    href="https://wa.me/573012914880"
+                    href="https://wa.me/message/UXKMA6B3PVU4J1"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
